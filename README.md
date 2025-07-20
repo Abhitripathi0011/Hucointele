@@ -1,1 +1,5 @@
-# Hucointele
+{
+  "rewrites": [
+    { "source": "/", /index.html" }
+  ]
+}
